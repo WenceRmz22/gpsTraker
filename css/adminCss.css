@@ -1,0 +1,40 @@
+#contenedor{
+	width: 80px;
+	height: 400px;
+	background-color: red;
+}
+#map_canvas{
+	width:60%; 
+	height:100%;
+	float: left;
+}
+#inData{
+	width: 40%;
+	height: 100%;
+	float: left;
+}
+#divInteres{
+	height: 350px;
+
+	overflow: scroll;
+}
+h2{
+	margin: 0px auto;
+}
+.Error{
+	color: red;
+}
+#mapBusqueda{
+	position: relative; 
+	overflow: hidden; 
+	transform: translateZ(0px); 
+	background-color: rgb(229, 227, 223);
+}
+#msg{
+	display: none;
+	width: 40%;
+	margin: 0px auto;
+}
+#contenido{
+	background-color: #FBF2EF;
+}
